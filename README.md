@@ -44,7 +44,7 @@ Matplotlib / Seaborn – Data visualization
 
 1. Clone the repository:
 
-        git clone https://github.com/your-username/Housing-Dataset-Analysis.git
+        git clone https://github.com/aditya-01-02/Housing-Dataset-Analysis.git
         cd Housing-Dataset-Analysis
 
 2. Install dependencies:
