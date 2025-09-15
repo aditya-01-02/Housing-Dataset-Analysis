@@ -40,17 +40,3 @@ Matplotlib / Seaborn – Data visualization
     
     📊 Summary statistics and insights
 
-🚀 How to Run
-
-1. Clone the repository:
-
-        git clone https://github.com/aditya-01-02/Housing-Dataset-Analysis.git
-        cd Housing-Dataset-Analysis
-
-2. Install dependencies:
-
-        pip install pandas numpy matplotlib seaborn jupyter
-
-3. Launch Jupyter Notebook
-
-4. Open Housing_dataset_analysis.ipynb and run the cells.
